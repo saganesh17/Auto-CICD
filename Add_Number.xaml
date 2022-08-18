@@ -91,6 +91,6 @@
         <InArgument x:TypeArguments="x:Int32">[a+b]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Total :=&quot;  + tot.ToString]" />
+    <ui:LogMessage DisplayName="Log Messagg1" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Total :=&quot;  + tot.ToString]" />
   </Sequence>
 </Activity>
